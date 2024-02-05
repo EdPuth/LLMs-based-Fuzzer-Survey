@@ -27,6 +27,12 @@ Feel free to send a pull request.
 
 11. Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model [[pdf]](https://arxiv.org/pdf/2310.15657.pdf)
 
+12. Smart Fuzzing of 5G Wireless Software Implementation [[pdf]](https://arxiv.org/pdf/2309.12994.pdf)
+
+13. Augmenting Greybox Fuzzing with Generative AI [[pdf]](https://arxiv.org/pdf/2306.06782.pdf)
+
+14. CHEMFUZZ: Large Language Models-assisted Fuzzing for Quantum Chemistry Software Bug Detection [[pdf]](https://csslab-ustc.github.io/publications/2023/chemfuzz.pdf )
+
 
 **Other literature:**
 1.
