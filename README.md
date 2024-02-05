@@ -5,7 +5,7 @@ Feel free to send a pull request.
 
 1.Large Language Models for Fuzzing Parsers (Registered Report) https://dl.acm.org/doi/10.1145/3605157.3605173
 
-2.Claude-2 https://www.anthropic.com/news/claude-2
+2.Claude-2 [[web]](https://www.anthropic.com/news/claude-2)
 
 3.Marcel B ̈ohme, Van-Thuan Pham, and655
 Abhik Roychoudhury. Coverage-based greybox fuzzing as656
