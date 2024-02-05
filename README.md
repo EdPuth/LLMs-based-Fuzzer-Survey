@@ -7,6 +7,6 @@ Feel free to send a pull request.
 
 2.Claude-2 https://www.anthropic.com/news/claude-2
 
-3.Coverage-based Greybox Fuzzing as Markov Chain [pdf](https://mboehme.github.io/paper/TSE18.pdf)
+3.Coverage-based Greybox Fuzzing as Markov Chain [[pdf]](https://mboehme.github.io/paper/TSE18.pdf)
 
 4.Directed Greybox Fuzzing https://dl.acm.org/doi/abs/10.1145/3133956.3134020
