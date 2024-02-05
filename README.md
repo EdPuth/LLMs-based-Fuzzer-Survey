@@ -13,4 +13,4 @@ markov chain. In Proceedings of the 2016 ACM SIGSAC657
 Conference on Computer and Communications Security,658
 pages 1032–1043, 2016. [[pdf]](https://mboehme.github.io/paper/TSE18.pdf)
 
-4.Directed Greybox Fuzzing https://dl.acm.org/doi/abs/10.1145/3133956.3134020
+4.Directed Greybox Fuzzing [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3133956.3134020)
