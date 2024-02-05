@@ -4,14 +4,21 @@ This repo list the core literature in the field of fuzzing tests, large language
 Feel free to send a pull request.
 
 14 Core lituarture
-1.Large Language Models for Fuzzing Parsers (Registered Report) https://dl.acm.org/doi/10.1145/3605157.3605173
+1. Large Language Models for Fuzzing Parsers (Registered Report) https://dl.acm.org/doi/10.1145/3605157.3605173
 
-2.Claude-2 [[web]](https://www.anthropic.com/news/claude-2)
+2. Claude-2 [[web]](https://www.anthropic.com/news/claude-2)
 
-3.Marcel B ̈ohme, Van-Thuan Pham, and655
+3. Marcel B ̈ohme, Van-Thuan Pham, and655
 Abhik Roychoudhury. Coverage-based greybox fuzzing as656
 markov chain. In Proceedings of the 2016 ACM SIGSAC657
 Conference on Computer and Communications Security,658
 pages 1032–1043, 2016. [[pdf]](https://mboehme.github.io/paper/TSE18.pdf)
 
-4.Directed Greybox Fuzzing [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3133956.3134020)
+4. Directed Greybox Fuzzing [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3133956.3134020)
+
+5. 
+
+6. 
+
+7. 
+
