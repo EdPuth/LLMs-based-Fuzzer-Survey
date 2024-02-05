@@ -3,6 +3,7 @@ This repo list the core literature in the field of fuzzing tests, large language
 
 Feel free to send a pull request.
 
+14 Core lituarture
 1.Large Language Models for Fuzzing Parsers (Registered Report) https://dl.acm.org/doi/10.1145/3605157.3605173
 
 2.Claude-2 [[web]](https://www.anthropic.com/news/claude-2)
