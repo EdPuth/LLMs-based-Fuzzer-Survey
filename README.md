@@ -58,7 +58,7 @@ Reference List used in the paper
 3. Coverage-based Greybox Fuzzing as Markov Chain [[pdf]](https://dl.acm.org/doi/10.1145/2976749.2978428)
 4. Directed Greybox Fuzzing [[pdf]](https://dl.acm.org/doi/10.1145/3133956.3134020)
 5. Language Models are Few-Shot Learners [[pdf]](https://arxiv.org/abs/2005.14165)
-6. A systematic review of fuzzing techniques [[pdf]] (https://www.sciencedirect.com/science/article/abs/pii/S0167404818300658)
+6. A systematic review of fuzzing techniques [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167404818300658)
 7. Evaluating Large Language Models Trained on Code [[pdf]](https://arxiv.org/abs/2107.03374)
 8. Fuzzing Deep-Learning Libraries via Automated Relational API Inference [[pdf]](https://arxiv.org/abs/2207.05531)
 9. Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models [[pdf]](https://arxiv.org/abs/2212.14834)
