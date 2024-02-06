@@ -51,5 +51,61 @@ pages 1032–1043, 2016. [[pdf]](https://mboehme.github.io/paper/TSE18.pdf)
 
 6. 
 
-7. 
+
+Reference List used in the paper
+1. Large Language Models for Fuzzing Parsers (Registered Report) [[pdf]](https://dl.acm.org/doi/10.1145/3605157.3605173)
+2. Claude-2 [[web]](https://www.anthropic.com/news/claude-2)
+3. Coverage-based Greybox Fuzzing as Markov Chain [[pdf]](https://dl.acm.org/doi/10.1145/2976749.2978428)
+4. Directed Greybox Fuzzing [[pdf]](https://dl.acm.org/doi/10.1145/3133956.3134020)
+5. Language Models are Few-Shot Learners [[pdf]](https://arxiv.org/abs/2005.14165)
+6. A systematic review of fuzzing techniques [[pdf] (https://www.sciencedirect.com/science/article/abs/pii/S0167404818300658)
+7. Evaluating Large Language Models Trained on Code [[pdf]](https://arxiv.org/abs/2107.03374)
+8. Fuzzing Deep-Learning Libraries via Automated Relational API Inference [[pdf]](https://arxiv.org/abs/2207.05531)
+9. Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models [[pdf]](https://arxiv.org/abs/2212.14834)
+10. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [[pdf]](https://arxiv.org/abs/2304.02014)
+11. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[pdf]](https://arxiv.org/abs/1810.04805)
+12. InCoder: A Generative Model for Code Infilling and Synthesis [[pdf]](https://arxiv.org/abs/2204.05999)
+13. Decoder-Only or Encoder-Decoder? Interpreting Language Model as a Regularized Encoder-Decoder [[pdf]](https://arxiv.org/abs/2304.04052)
+14. AI-Powered Fuzzing: Breaking the Bug Hunting Barrier [[web]](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html)
+15. GPF vdalabs [[web]](https://www.vdalabs.com/)
+16. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing [[pdf]](https://arxiv.org/abs/2204.08734)
+17. Augmenting Greybox Fuzzing with Generative AI [[pdf]](https://arxiv.org/abs/2306.06782)
+18. BertRLFuzzer: A BERT and Reinforcement Learning Based Fuzzer [[pdf]](https://arxiv.org/abs/2305.12534)
+19. Challenges and Applications of Large Language Models [[pdf]](https://arxiv.org/abs/2307.10169)
+20. Evaluating Fuzz Testing [[pdf]](https://arxiv.org/abs/1808.09700)
+21. FairFuzz: a targeted mutation strategy for increasing greybox fuzz testing coverage [[pdf]](https://dl.acm.org/doi/10.1145/3238147.3238176)
+22. Fuzzing: State of the Art [[pdf]](https://ieeexplore.ieee.org/document/8371326)
+23.  [[pdf]]()
+24.  [[pdf]]()
+25.  [[pdf]]()
+26.  [[pdf]]()
+27.  [[pdf]]()
+28.  [[pdf]]()
+29.  [[pdf]]()
+30.  [[pdf]]()
+31.  [[pdf]]()
+32.  [[pdf]]()
+33.  [[pdf]]()
+34.  [[pdf]]()
+35.  [[pdf]]()
+36.  [[pdf]]()
+37.  [[pdf]]()
+38.  [[pdf]]()
+39.  [[pdf]]()
+40.  [[pdf]]()
+41.  [[pdf]]()
+42.  [[pdf]]()
+43.  [[pdf]]()
+44.  [[pdf]]()
+45.  [[pdf]]()
+46.  [[pdf]]()
+47.  [[pdf]]()
+48.  [[pdf]]()
+49.  [[pdf]]()
+50.  [[pdf]]()
+
+
+
+
+
 
