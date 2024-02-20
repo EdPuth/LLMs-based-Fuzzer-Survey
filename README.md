@@ -1,7 +1,19 @@
 # LLMs-based-Fuzzer-Survey
+
+Our vervey paper : https://arxiv.org/abs/2402.00350
+<details><summary><b>Survey Paper Update Logs</b></summary>
+
+<p>
+<ul>
+  <li><b>2024.02.07 - Paper v2 released</b>: More figures and contents added.</li>
+  <li><b>2024.02.01 - Paper v1 released</b>: Initial version.</li>
+</ul>
+</p>
+
 This repo list the core literature in the field of fuzzing tests, large language models, and LLM-based fuzzer. Most of the papers are selected from authoritative platforms such as Google Scholar, and were published recently. It will be helpful for researchers who want to develop LLMs-based fuzzer. 
 
-Feel free to send a pull request.
+Feel free to send a pull request!!!
+
 
 ## 1. Figures
 
