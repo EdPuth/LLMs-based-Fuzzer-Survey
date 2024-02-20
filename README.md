@@ -44,6 +44,7 @@ Feel free to send a pull request.
 
 
 <details><summary><b>2.2 Reference List used in the survey paper</b></summary>
+
 1. Large Language Models for Fuzzing Parsers (Registered Report) [[pdf]](https://dl.acm.org/doi/10.1145/3605157.3605173)
 2. Claude-2 [[web]](https://www.anthropic.com/news/claude-2)
 3. Coverage-based Greybox Fuzzing as Markov Chain [[pdf]](https://dl.acm.org/doi/10.1145/2976749.2978428)
