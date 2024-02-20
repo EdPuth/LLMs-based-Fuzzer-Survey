@@ -22,7 +22,7 @@ Feel free to send a pull request!!!
 
 <img width="650" src="https://github.com/EdPuth/LLMs-based-Fuzzer-Survey/blob/main/LLM_Fuzzers.jpg">
 
-<img width="650" src="https://github.com/EdPuth/LLMs-based-Fuzzer-Survey/blob/main/fuzzing%20llm%20mindmap.jpg">
+<img width="650" src="https://github.com/EdPuth/LLMs-based-Fuzzer-Survey/blob/main/LLM-based%20fuzzer%20diagram.jpg">
 
 
 ## 2. Papers
