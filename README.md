@@ -9,6 +9,7 @@ Our vervey paper : https://arxiv.org/abs/2402.00350
   <li><b>2024.02.01 - Paper v1 released</b>: Initial version.</li>
 </ul>
 </p>
+</details>
 
 This repo list the core literature in the field of fuzzing tests, large language models, and LLM-based fuzzer. Most of the papers are selected from authoritative platforms such as Google Scholar, and were published recently. It will be helpful for researchers who want to develop LLMs-based fuzzer. 
 
