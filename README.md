@@ -1,6 +1,6 @@
 # LLMs-based-Fuzzer-Survey
 
-Our vervey paper : https://arxiv.org/abs/2402.00350
+Our survey paper : https://arxiv.org/abs/2402.00350
 <details><summary><b>Survey Paper Update Logs</b></summary>
 
 <p>
