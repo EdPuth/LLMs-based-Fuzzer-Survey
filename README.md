@@ -4,6 +4,9 @@ This repo list the core literature in the field of fuzzing tests, large language
 Feel free to send a pull request.
 
 ## 1. Figures
+
+ A General overview of LLMs-based Fuzzer
+
 <img width="650" src="https://github.com/EdPuth/LLMs-based-Fuzzer-Survey/blob/main/LLM_Fuzzers.jpg">
 
 <img width="650" src="https://github.com/EdPuth/LLMs-based-Fuzzer-Survey/blob/main/fuzzing%20llm%20mindmap.jpg">
